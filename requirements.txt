@@ -2,3 +2,4 @@ transformers
 datasets
 gradio
 huggingface_hub==0.22.2
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
